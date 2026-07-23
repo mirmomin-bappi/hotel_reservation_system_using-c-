@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreservationlib.a CMakeFiles/reservationlib.dir/ReservationManager.cpp.o
+/usr/bin/ranlib libreservationlib.a

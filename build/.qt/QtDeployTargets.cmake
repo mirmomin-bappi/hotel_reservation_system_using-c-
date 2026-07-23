@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_reservationlib_FILE /Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/libreservationlib.a)
+set(__QT_DEPLOY_TARGET_reservationlib_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_hotel_system_FILE /Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/hotel_system)
+set(__QT_DEPLOY_TARGET_hotel_system_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_hotel_system_cli_FILE /Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/hotel_system_cli)
+set(__QT_DEPLOY_TARGET_hotel_system_cli_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_hotel_gui_FILE /Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/hotel_gui)
+set(__QT_DEPLOY_TARGET_hotel_gui_TYPE EXECUTABLE)

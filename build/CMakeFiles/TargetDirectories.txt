@@ -1,0 +1,6 @@
+/Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/CMakeFiles/reservationlib.dir
+/Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/CMakeFiles/hotel_system.dir
+/Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/CMakeFiles/hotel_system_cli.dir
+/Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/CMakeFiles/hotel_gui.dir
+/Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/CMakeFiles/edit_cache.dir
+/Users/bappi/Desktop/3rd Semister/Hotel reservation system/build/CMakeFiles/rebuild_cache.dir

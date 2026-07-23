@@ -1,0 +1,4 @@
+2|Alice Smith|alice@example.com|1234567890|01/08/2026|Economy Class|80
+3|Alice|alice@example.com|1234567890|18/07/2026|Economy Class|80
+4|Bappi|Bappi@gmail.com|07000000000|22-8-2026|Business Class|180
+5|Ashfi|a.c@gmail.com|0800000|22/08/202|Economy Class|80
